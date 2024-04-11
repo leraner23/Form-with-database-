@@ -448,3 +448,12 @@ public class form2 {
 	}
 
 }
+
+
+
+
+output ===>
+
+
+
+![Screenshot 2024-04-11 212643](https://github.com/leraner23/Form-with-database-/assets/160107123/3c0febf1-c12c-493e-85eb-010d4f67020f)
