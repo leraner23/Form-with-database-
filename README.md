@@ -1,7 +1,8 @@
 # Form-with-database-
 Form made with the java Swing and the postgres sql database and server  
 
-
+note:
+You have to create table in the server's database first.
 
 
 //// Codes : 
